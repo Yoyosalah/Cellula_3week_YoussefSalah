@@ -1,0 +1,211 @@
+Name: Youssef Salah
+Date of Birth: March 15, 2000
+Nationality: Egyptian
+Location: Cairo, Egypt
+
+============================================================
+PERSONAL PROFILE
+============================================================
+
+Youssef Salah is a software engineer and robotics-focused AI enthusiast based in Cairo, Egypt. He has a strong interest in autonomous systems, machine learning, and intelligent robotics software.
+
+From an early stage in his academic journey, Youssef demonstrated strong analytical thinking and a deep curiosity about how systems work internally. His passion lies not only in using technology but in understanding its foundations — from low-level system behavior and drivers to high-level AI architectures.
+
+He is particularly interested in building intelligent systems that interact with the physical world, combining robotics, control, and machine learning into cohesive real-world solutions.
+
+============================================================
+EDUCATION
+============================================================
+
+Bachelor’s Degree in Computer Science (or related field)
+Egypt
+
+Youssef has completed specialized coursework in:
+
+- Supervised Machine Learning: Regression and Classification
+- Digital Signal Processing (DSP)
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Software Engineering Principles
+- Embedded Systems
+- Control and Robotics Software
+
+He has practical academic experience working with Z-transforms, MATLAB analysis, neural networks, and robotics software integration.
+
+============================================================
+TECHNICAL SKILLS
+============================================================
+
+Programming Languages:
+- Python
+- C++
+- C
+- Java
+- MATLAB
+- VHDL
+
+Machine Learning & AI:
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- HuggingFace Transformers
+- Neural network implementation from scratch
+- Model fine-tuning (DistilBERT, ALBERT)
+- LoRA fine-tuning
+- NLP classification systems
+- Confusion matrix analysis and evaluation metrics
+
+Robotics & Autonomous Systems:
+- ROS (Robot Operating System)
+- Custom DWA-based local planner implementation
+- Lane-following sub-goal generation
+- RViz visualization
+- Ground rover software systems
+- Motion control logic
+- ROS topic publishing/subscribing
+
+Embedded Systems:
+- STM32 programming
+- Arduino IDE
+- STLink programming
+- Servo motor integration
+- Hardware-software interfacing
+
+Tools & Systems:
+- Git
+- GitHub
+- Linux (Ubuntu dual boot setup)
+- NVIDIA GPU configuration and driver debugging
+- Python virtual environments (venv)
+- VSCode
+- System troubleshooting (BusyBox recovery, partition issues)
+
+Software Engineering Principles:
+- Object-Oriented Programming (OOP)
+- SOLID principles
+- Design Patterns
+- UML modeling
+- Clean architecture thinking
+
+============================================================
+ROBOTICS TEAM EXPERIENCE
+============================================================
+
+Youssef is part of a robotics technical team specializing in ground vehicles (rovers).
+
+The software division of the team is structured into:
+- Autonomous Navigation
+- Communication
+- Computer Vision / AI
+
+Youssef primarily works within the autonomous systems and software domain. He contributes to navigation logic, motion planning strategies, and intelligent system design for rover-based robotics platforms.
+
+============================================================
+PROJECTS
+============================================================
+
+1) Toxic Comment Classification System
+
+Built an NLP-based toxic comment classifier using HuggingFace Transformers. 
+Worked with pretrained models such as toxic-bert and explored fine-tuning efficient transformer variants including DistilBERT and ALBERT using LoRA.
+
+The project included:
+- Data preprocessing
+- Model fine-tuning
+- Evaluation metrics computation
+- Confusion matrix visualization
+- Streamlit-based interface integration
+
+------------------------------------------------------------
+
+2) Handwritten Digit Recognition Neural Network
+
+Implemented a neural network for handwritten digit recognition using TensorFlow.
+
+This project focused on:
+- Understanding forward and backward propagation
+- Model training and optimization
+- Performance evaluation
+- Practical deep learning fundamentals
+
+------------------------------------------------------------
+
+3) Custom DWA-Based Local Planner (ROS)
+
+Implemented a custom Dynamic Window Approach (DWA)-based local planner in ROS using Python.
+
+The planner:
+- Evaluates velocity samples
+- Calculates trajectory costs
+- Selects optimal motion commands
+- Integrates with robot kinematics
+- Publishes commands for real-time navigation
+
+------------------------------------------------------------
+
+4) Lane-Following Sub-Goal ROS Node
+
+Developed a ROS node that:
+- Computes a sub-goal ahead of the robot
+- Ensures alignment parallel to the lane
+- Publishes the goal for downstream navigation modules
+- Visualizes output in RViz
+
+The system ensures that the robot always follows the lane structure in a stable and forward-facing orientation.
+
+------------------------------------------------------------
+
+5) DSP Lab Analysis and MATLAB Implementation
+
+Solved Digital Signal Processing laboratory assignments involving:
+- Z-transform analysis
+- Signal response computation
+- MATLAB-based simulation and visualization
+
+============================================================
+OPERATING SYSTEM & GPU EXPERIENCE
+============================================================
+
+Youssef has hands-on experience with:
+
+- Ubuntu dual boot configuration with Windows
+- Troubleshooting BusyBox boot issues
+- Partition debugging and system recovery
+- NVIDIA driver installation and version mismatch debugging
+- GPU setup for PyTorch and TensorFlow workloads
+
+He is comfortable diagnosing low-level system issues and resolving driver or environment conflicts.
+
+============================================================
+CAREER GOALS
+============================================================
+
+Short-Term Goals:
+- Secure an internship in Machine Learning, AI, or Autonomous Systems.
+- Strengthen expertise in large-scale AI system design.
+- Deepen knowledge of robotics navigation and intelligent control systems.
+
+Long-Term Goals:
+- Become a highly skilled AI engineer specializing in autonomous systems.
+- Build intelligent robotic systems that integrate perception, planning, and control.
+- Contribute to advanced AI applications in real-world robotics environments.
+
+============================================================
+SOFT SKILLS
+============================================================
+
+- Strong analytical problem solving
+- Leadership within technical teams
+- Technical presentation skills
+- Structured debugging methodology
+- Persistence in solving complex system-level issues
+- Ability to bridge theory and implementation
+
+============================================================
+PERSONAL TRAITS & VALUES
+============================================================
+
+Youssef values precision, deep understanding, and disciplined engineering practices. 
+He enjoys breaking down complex systems into understandable components and optimizing them for performance and reliability.
+
+He believes that true engineering excellence comes from mastering fundamentals while continuously exploring new technologies. His approach combines curiosity, persistence, and a strong commitment to clean and maintainable system design.
