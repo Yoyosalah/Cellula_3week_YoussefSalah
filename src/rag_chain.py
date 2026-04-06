@@ -29,7 +29,7 @@ def build_rag_chain(retriever, model_name: str = "arcee-ai/trinity-large-preview
         model=model_name,
         openai_api_key=OPENROUTER_API_KEY,
         openai_api_base="https://openrouter.ai/api/v1",
-        temperature=0,
+        temperature=0.7,
     )
 
     prompt = ChatPromptTemplate.from_messages([
